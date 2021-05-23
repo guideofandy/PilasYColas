@@ -1,0 +1,28 @@
+body{
+    width: 30vw;
+    margin: auto;
+    text-align: center;
+    
+}
+form{
+    margin: 1rem;
+}
+form input{
+    width: 3rem;
+}
+
+table{
+    border: 1px solid black;
+    margin: auto;
+}
+tr{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.a{
+    margin: auto;
+}
